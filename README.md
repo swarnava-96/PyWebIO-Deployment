@@ -1,7 +1,7 @@
 # PyWebIO-Deployment
 
 ##app.py
-![image](https://user-images.githubusercontent.com/75041273/123525763-c0cbaa00-d6f0-11eb-9e2a-861668496fcd.png)
-![image](https://user-images.githubusercontent.com/75041273/123525767-c923e500-d6f0-11eb-98a1-9c376f565781.png)
-![image](https://user-images.githubusercontent.com/75041273/123525776-d80a9780-d6f0-11eb-980d-de8641b68ba9.png)
-![image](https://user-images.githubusercontent.com/75041273/123525779-dc36b500-d6f0-11eb-83e4-0bcfbf93c1d8.png)
+![image](https://user-images.githubusercontent.com/75041273/123525804-1b650600-d6f1-11eb-83c1-ae1ed71e1e6f.png)
+![image](https://user-images.githubusercontent.com/75041273/123525815-2324aa80-d6f1-11eb-9bf5-a5cb326870af.png)
+![image](https://user-images.githubusercontent.com/75041273/123525824-2a4bb880-d6f1-11eb-8959-65b2a7853385.png)
+![image](https://user-images.githubusercontent.com/75041273/123525830-3d5e8880-d6f1-11eb-8f6f-37595d1bed66.png)
